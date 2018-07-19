@@ -1,0 +1,8 @@
+.scale-half {
+  transform: scale(0.5);
+  transform-origin: bottom;
+}
+
+.elements img {
+  transition: all linear .5s;
+}
